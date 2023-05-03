@@ -38,6 +38,12 @@ _Check Troubleshooting section if you can't upload the firmware_
 
 ## Help
 Blynk Troubleshooting guide: https://docs.blynk.io/en/troubleshooting/general-issues
+
 Documentation: https://docs.blynk.io/en/
+
 Developer contact: vitaliy@blynk.cc
+
 Blueprint repository: https://github.com/vveretko/Blynk-ESP32-System-LED
+
+## Congratulations!
+Congratulations! You have successfully connected a Wroom ESP32 to Blynk and controlled the built-in. By following this tutorial, you have gained experience working with the ESP32, Blynk app, and IoT applications. You can now expand on this project to incorporate real sensors or controllers.
