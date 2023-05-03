@@ -4,7 +4,7 @@ This project is a quick start tutorial on connecting the ESP32 board to the Blyn
 The project involves uploading a code to the ESP32 board using the Arduino IDE and connecting it to the Blynk IoT app. The code will blink an LED connected to a GPIO pin on the ESP32 board, and the app will allow the user to control the LED by pressing a button.
 
 This project is a great introduction to the world of IoT and can be easily expanded to include other sensors and actuators. With the ESP32 and Blynk, you can build a wide range of IoT projects, from home automation to remote monitoring and control of devices.
-## 1. Prepare the Hardware
+## 1. Components
 In this project we used:
 1. ESP32 DEVKIT board
 2. USB cable
@@ -16,7 +16,8 @@ _Your board needs to be connected with a data USB cable (charge-only cables will
 1. Install  [Arduino IDE](https://docs.arduino.cc/software/ide-v1/tutorials/Windows) or [PlatformIO](https://platformio.org/install)
 2. Install [Blynk library](https://docs.blynk.io/en/blynk-library-firmware-api/installation) for your IDE
 3. Select the correct board and port in your IDE settings
-4. Create a new sketch
+4. Install the [ESP32 board support](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/) if you are using Arduino IDE
+5. Create a new sketch
 ## 5. Prepare the Firmware and upload it to your device
 Now you need to include TemplateID, AuthToken (unique identifier of your device) and WiFi credentials to the sketch. Follow next steps to do it.
 1. Click on the Activate device action in Template Home tab.
