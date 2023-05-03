@@ -36,6 +36,7 @@ _Check Troubleshooting section if you can't upload the firmware_
 3. Check your sketch for errors. Click the Verify button to compile your sketch without uploading it
 4. Check your board and port selections
 5. Check your connections. Your board needs to be connected with a data USB cable (charge-only cables will not work). Make sure the cable is fully inserted in the port on each end. Try a different USB cable, and avoid hubs and other adapters if possible. Remove connections to the board pins, especially the 0 (RX) and 1 (TX) digital pins.
+6. Check that your boards and libraries are up to date
 
 ## Help
 Blynk Troubleshooting guide: https://docs.blynk.io/en/troubleshooting/general-issues
