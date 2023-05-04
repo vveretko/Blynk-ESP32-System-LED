@@ -20,7 +20,7 @@ _Your board needs to be connected with a data USB cable (charge-only cables will
 5. Create a new sketch
 ## 5. Prepare the Firmware and upload it to your device
 Now you need to include TemplateID, AuthToken (unique identifier of your device) and WiFi credentials to the sketch. Follow next steps to do it.
-1. Click on the Activate device action in Template Home tab.
+1. Click on the Activate device action in Template Home tab (this tab should open automatically once you've pressed the Use Blueprint button)
 2. Enter the Wi-Fi credentials your device will use
 3. Copy the sketch and paste it to the IDE
 4. Flash your device
