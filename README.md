@@ -24,6 +24,9 @@ Now you need to include TemplateID, AuthToken (unique identifier of your device)
 2. Enter the Wi-Fi credentials your device will use
 3. Copy the sketch and paste it to the IDE
 4. Flash your device
+5. The device should open automatically
+
+
 _Check Troubleshooting section if you can't upload the firmware_
 ## Next steps after the device is activated
 1. Explore the Blynk [Web Console](blynk.cloud) and [Blynk IoT app](https://docs.blynk.io/en/downloads/blynk-apps-for-ios-and-android), try controlling your device from both
