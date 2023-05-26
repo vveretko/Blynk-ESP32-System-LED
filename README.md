@@ -13,7 +13,7 @@ In this project we used:
 Connect your device to computers` USB port
 _Your board needs to be connected with a data USB cable (charge-only cables will not work). Make sure the cable is fully inserted in the port on each end_
 ## 3. Prepare required software
-1. Install  [Arduino IDE](https://docs.arduino.cc/software/ide-v1/tutorials/Windows) or [PlatformIO](https://platformio.org/install)
+1. Install  [Arduino IDE]([https://docs.arduino.cc/software/ide-v1/tutorials/Windows](https://www.arduino.cc/en/software#future-version-of-the-arduino-ide)) or [PlatformIO](https://platformio.org/install)
 2. Install [Blynk library](https://docs.blynk.io/en/blynk-library-firmware-api/installation) for your IDE
 3. Select the correct board and port in your IDE settings
 4. Install the [ESP32 board support](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/) if you are using Arduino IDE
